@@ -1,0 +1,204 @@
+* {
+  font-family: Inter, sans-serif;
+  font-family: Montserrat, sans-serif
+}
+
+#FirstPage {
+  height: 100vh
+}
+
+.rev-logo {
+  height: 50px;
+  width: 50px
+}
+
+.jetty-logo {
+  height: 50px;
+  width: 100px;
+  object-fit: contain
+}
+
+.lil {
+  width: max-content
+}
+
+.restart {
+  color: #000;
+  font-weight: bolder;
+  text-decoration: none;
+  margin: 0
+}
+
+.phone-logo,
+.message-logo {
+  height: 30px;
+  max-width: 30px
+}
+
+.c-row {
+  display: flex;
+  flex-direction: row;
+  padding-top: 100px
+}
+
+.main-text {
+  width: 100%;
+  display: flex;
+  justify-items: center;
+  justify-content: center
+}
+
+.last-txt {
+  display: flex;
+  justify-items: center;
+  justify-content: center
+}
+
+.card {
+  height: 400px
+}
+
+.fetures {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.focus-title {
+  position: absolute;
+  top: -10px
+}
+
+.plans {
+  display: flex;
+  justify-content: center
+}
+
+.mid {
+  position: absolute;
+  top: -1rem;
+  right: 35%;
+  margin: auto
+}
+
+.line {
+  height: 1px;
+  width: 50%;
+  background-color: #979797
+}
+
+.text-secondary {
+  width: 100%;
+  margin: 0
+}
+
+.texts {
+  color: #6c757d
+}
+
+.prices {
+  font-weight: 700
+}
+
+.price {
+  width: fit-content
+}
+
+.letter-spacing {
+  letter-spacing: 2px
+}
+
+.money {
+  font-size: 60px
+}
+
+.adjust {
+  font-size: 16px
+}
+
+.money-page {
+  max-width: fit-content
+}
+
+.cards {
+  height: fit-content;
+  width: 25rem
+}
+
+.line-1 {
+  height: 1px;
+  width: 100%;
+  background-color: silver
+}
+
+.starts {
+  background-color: #fff;
+  border: black solid 2px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin-right: 1rem
+}
+
+.input-date {
+  border: none
+}
+
+.input-date:focus {
+  outline: none
+}
+
+.deduct {
+  margin-left: 1rem;
+  width: 5rem;
+  border: none
+}
+
+.deduct:focus {
+  outline: none
+}
+
+.first,
+.second {
+  border: none;
+  width: 17rem
+}
+.right-card {
+  height: 90%
+}
+.card-width {
+  width: 25rem
+}
+
+.to-center {
+  width: fit-content
+}
+
+.navbar-brand,
+.lil {
+  opacity: 50%
+}
+
+.showC {
+  display: block !important
+}
+
+.mid{
+  position: absolute;
+    top: -1rem;
+    right: 35%;
+    margin: auto;
+}
+.btn-group-sm>.btn,
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: .875rem;
+  border-radius: 0.2rem;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+

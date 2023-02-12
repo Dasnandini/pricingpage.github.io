@@ -1,0 +1,117 @@
+* {
+    font-family: Inter, sans-serif;
+    font-family: Montserrat, sans-serif
+}
+
+#secondPage {
+    height: 100vh
+}
+
+.rev-logo {
+    height: 50px;
+    width: 50px
+}
+
+.jetty-logo {
+    height: 50px;
+    width: 100px;
+    object-fit: contain
+}
+.lil {
+    width: max-content
+}
+
+.restart {
+    color: #000;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 0
+}
+
+.phone-logo,
+.message-logo {
+    height: 30px;
+    max-width: 30px
+}
+.background {
+    background-image: url(./img/bgimg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.left-part {
+    margin-top: 80px;
+    margin-left: 400px
+}
+
+.right-part {
+    margin-top: 80px;
+    margin-right: 200px
+}
+
+.inputt {
+    margin-top: 50px
+}
+.starts {
+    background-color: #fff;
+    border: black solid 2px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-right: 1rem
+}
+
+.input-date {
+    border: none
+}
+
+.input-date:focus {
+    outline: none
+}
+
+.deduct {
+    margin-left: 1rem;
+    width: 5rem;
+    border: none
+}
+
+.deduct:focus {
+    outline: none
+}
+.texts {
+    color: #6c757d
+}
+
+.prices {
+    font-weight: 700
+}
+
+.price {
+    width: fit-content
+}
+
+.letter-spacing {
+    letter-spacing: 2px
+}
+
+.money {
+    font-size: 60px
+}
+
+.adjust {
+    font-size: 16px
+}
+
+.money-page {
+    max-width: fit-content
+}
+
+.cards {
+    height: fit-content;
+    width: 25rem
+}
+
+
+
+
